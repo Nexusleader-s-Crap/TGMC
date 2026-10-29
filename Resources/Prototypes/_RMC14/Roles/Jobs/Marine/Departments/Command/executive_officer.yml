@@ -74,14 +74,11 @@
 - type: startingGear
   id: CMGearExecutiveOfficer
   equipment:
-    jumpsuit: CMJumpsuitBO
-    shoes: RMCShoesLaceup
-    head: CMHeadCapPeakedService
-    outerClothing: RMCCoatService
+    jumpsuit: JumpsuitMarine
+    shoes: CMBootsBlackFilled
     id: CMIDCardExecutiveOfficer
     ears: CMHeadsetSeniorCommand
     pocket1: RMCPouchGeneralLarge
-    pocket2: RMCPouchGeneralLarge
   storage:
     pocket1:
     - RMCRangefinder
